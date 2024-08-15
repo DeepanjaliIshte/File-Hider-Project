@@ -8,9 +8,9 @@
 Manages the external libraries required for database connectivity, email services, and other functionalities.</h6>
 
 <h5>Key Dependencies:<h5>
-<h5>mysql-connector-java: </h5><h6>Used for connecting to the MySQL database.<br>
-<h5>javax.mail:</h5> Used for sending emails via the JavaMail API.<br>
-<h5>Usage: </h5>Ensures that all necessary libraries are available and properly configured for the project.</h6>
+<h5>mysql-connector-java: </h5><h6>Used for connecting to the MySQL database.</h6>
+<h5>javax.mail:</h5> <h6>Used for sending emails via the JavaMail API.</h6>
+<h5>Usage: </h5><h6>Ensures that all necessary libraries are available and properly configured for the project.</h6>
 
 1. User Model (User.java)
 Purpose:
